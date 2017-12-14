@@ -1,0 +1,10 @@
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/bin/Debug/netcoreapp2.0/Probrem2_4.deps.json
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/bin/Debug/netcoreapp2.0/Probrem2_4.runtimeconfig.json
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/bin/Debug/netcoreapp2.0/Probrem2_4.runtimeconfig.dev.json
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/bin/Debug/netcoreapp2.0/Probrem2_4.dll
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/bin/Debug/netcoreapp2.0/Probrem2_4.pdb
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/obj/Debug/netcoreapp2.0/Probrem2_4.csproj.CoreCompileInputs.cache
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/obj/Debug/netcoreapp2.0/Probrem2_4.AssemblyInfoInputs.cache
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/obj/Debug/netcoreapp2.0/Probrem2_4.AssemblyInfo.cs
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/obj/Debug/netcoreapp2.0/Probrem2_4.dll
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem2/Probrem2_4/obj/Debug/netcoreapp2.0/Probrem2_4.pdb
