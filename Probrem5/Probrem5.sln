@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probrem5_3", "Probrem5_3\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probrem5_4", "Probrem5_4\Probrem5_4.csproj", "{47BDACDF-5FCA-4FE5-81F6-6E85D05102A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probrem5_5", "Probrem5_5\Probrem5_5.csproj", "{EB531CC1-A008-4D8E-8467-FA55511CB37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{47BDACDF-5FCA-4FE5-81F6-6E85D05102A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47BDACDF-5FCA-4FE5-81F6-6E85D05102A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47BDACDF-5FCA-4FE5-81F6-6E85D05102A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB531CC1-A008-4D8E-8467-FA55511CB37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB531CC1-A008-4D8E-8467-FA55511CB37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB531CC1-A008-4D8E-8467-FA55511CB37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB531CC1-A008-4D8E-8467-FA55511CB37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
