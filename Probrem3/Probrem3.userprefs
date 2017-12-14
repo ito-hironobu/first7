@@ -10,9 +10,18 @@
   <MonoDevelop.Ide.ItemProperties.Probrem3__4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem3__16 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem3__15 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem3_18/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem3_9/Program.cs">
     <Files>
       <File FileName="Probrem3_1/Program.cs" Line="6" Column="1" />
+      <File FileName="Probrem3_10/Program.cs" Line="10" Column="6" />
+      <File FileName="Probrem3_11/Program.cs" Line="20" Column="18" />
+      <File FileName="Probrem3_12/Program.cs" Line="10" Column="6" />
+      <File FileName="Probrem3_13/Program.cs" Line="16" Column="24" />
+      <File FileName="Probrem3_14/Program.cs" Line="27" Column="18" />
+      <File FileName="Probrem3_15/Program.cs" Line="16" Column="1" />
+      <File FileName="Probrem3_16/Program.cs" Line="14" Column="19" />
+      <File FileName="Probrem3_17/Program.cs" Line="16" Column="38" />
+      <File FileName="Probrem3_18/Program.cs" Line="21" Column="1" />
       <File FileName="Probrem3_2/Program.cs" Line="9" Column="18" />
       <File FileName="Probrem3_3/Program.cs" Line="11" Column="12" />
       <File FileName="Probrem3_4/Program.cs" Line="15" Column="35" />
@@ -21,15 +30,6 @@
       <File FileName="Probrem3_7/Program.cs" Line="19" Column="14" />
       <File FileName="Probrem3_8/Program.cs" Line="20" Column="19" />
       <File FileName="Probrem3_9/Program.cs" Line="17" Column="18" />
-      <File FileName="Probrem3_10/Program.cs" Line="10" Column="6" />
-      <File FileName="Probrem3_11/Program.cs" Line="20" Column="18" />
-      <File FileName="Probrem3_12/Program.cs" Line="10" Column="6" />
-      <File FileName="Probrem3_13/Program.cs" Line="16" Column="24" />
-      <File FileName="Probrem3_14/Program.cs" Line="27" Column="18" />
-      <File FileName="Probrem3_15/Program.cs" Line="16" Column="13" />
-      <File FileName="Probrem3_16/Program.cs" Line="14" Column="19" />
-      <File FileName="Probrem3_17/Program.cs" Line="16" Column="38" />
-      <File FileName="Probrem3_18/Program.cs" Line="9" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Probrem3__18 PreferredExecutionTarget="MonoDevelop.Default" />
