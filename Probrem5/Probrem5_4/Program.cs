@@ -10,7 +10,7 @@ namespace Probrem5_4
     {
         static void Main(string[] args)
         {
-            int[] a = new int[10];
+            int[] data = new int[10];
             int rnd_max = 100;
             int rnd_min = 1;
             Random rnd = new Random();
@@ -18,14 +18,14 @@ namespace Probrem5_4
             string str_over = "50以上の数：";
             string str_under = "50未満の数：";
 
-            for(int i = 0; i < a.Length; i++){
-                a[i] = rnd.Next(rnd_min, rnd_max + 1);
-                Console.Write(a[i] + " ");
+            for(int i = 0; i < data.Length; i++){
+                data[i] = rnd.Next(rnd_min, rnd_max + 1);
+                Console.Write(data[i] + " ");
 
-                if(a[i] >= 50){
-                    str_over += a[i] + " ";
+                if(data[i] >= 50){
+                    str_over += data[i] + " ";
                 }else{
-                    str_under += a[i] + " ";
+                    str_under += data[i] + " ";
                 }
             }
             Console.WriteLine();
