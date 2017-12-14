@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Probrem5_5
+namespace Probrem5_6
 {
     class Program
     {
