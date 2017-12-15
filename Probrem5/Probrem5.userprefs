@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{16ABB0D2-A7E1-4EF8-ADA7-EE4EC6E71DEC}|Default">
+﻿<Properties StartupConfiguration="{11DF2C9F-37E0-4A2A-9185-80A77C3FCE1E}|Default">
   <MonoDevelop.Ide.ItemProperties.Probrem5__9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__5 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -8,7 +8,7 @@
   <MonoDevelop.Ide.ItemProperties.Probrem5__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem5_12/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem5_13/Program.cs">
     <Files>
       <File FileName="Probrem5_1/Program.cs" Line="12" Column="10" />
       <File FileName="Probrem5_2/Program.cs" Line="20" Column="2" />
@@ -21,7 +21,8 @@
       <File FileName="Probrem5_9/Program.cs" Line="33" Column="33" />
       <File FileName="Probrem5_10/Program.cs" Line="14" Column="30" />
       <File FileName="Probrem5_11/Program.cs" Line="18" Column="50" />
-      <File FileName="Probrem5_12/Program.cs" Line="18" Column="13" />
+      <File FileName="Probrem5_12/Program.cs" Line="26" Column="14" />
+      <File FileName="Probrem5_13/Program.cs" Line="7" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -30,6 +31,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Probrem5__12 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
