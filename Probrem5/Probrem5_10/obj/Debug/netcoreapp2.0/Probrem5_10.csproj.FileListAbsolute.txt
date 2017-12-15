@@ -8,4 +8,3 @@
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_10/obj/Debug/netcoreapp2.0/Probrem5_10.AssemblyInfo.cs
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_10/obj/Debug/netcoreapp2.0/Probrem5_10.dll
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_10/obj/Debug/netcoreapp2.0/Probrem5_10.pdb
-/Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_10/obj/Debug/netcoreapp2.0/Probrem5_10.csprojResolveAssemblyReference.cache

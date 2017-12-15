@@ -3,7 +3,6 @@
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/bin/Debug/netcoreapp2.0/Probrem5_11.runtimeconfig.dev.json
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/bin/Debug/netcoreapp2.0/Probrem5_11.dll
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/bin/Debug/netcoreapp2.0/Probrem5_11.pdb
-/Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/obj/Debug/netcoreapp2.0/Probrem5_11.csprojResolveAssemblyReference.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/obj/Debug/netcoreapp2.0/Probrem5_11.csproj.CoreCompileInputs.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/obj/Debug/netcoreapp2.0/Probrem5_11.AssemblyInfoInputs.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem5/Probrem5_11/obj/Debug/netcoreapp2.0/Probrem5_11.AssemblyInfo.cs
