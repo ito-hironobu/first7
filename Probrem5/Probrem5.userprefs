@@ -8,7 +8,7 @@
   <MonoDevelop.Ide.ItemProperties.Probrem5__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem5__2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem5_10/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem5_11/Program.cs">
     <Files>
       <File FileName="Probrem5_1/Program.cs" Line="12" Column="10" />
       <File FileName="Probrem5_2/Program.cs" Line="20" Column="2" />
@@ -20,6 +20,7 @@
       <File FileName="Probrem5_8/Program.cs" Line="8" Column="2" />
       <File FileName="Probrem5_9/Program.cs" Line="33" Column="33" />
       <File FileName="Probrem5_10/Program.cs" Line="28" Column="37" />
+      <File FileName="Probrem5_11/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
