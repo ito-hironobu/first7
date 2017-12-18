@@ -12,11 +12,9 @@ namespace Probrem8_1
         {
             int counter = 0;
             for (int a = 1; a <= 100; a++){
-                int A = a * a;
                 for (int b = 1; b <= 100; b++){
-                    int B = b * b;
                     for (int c = 1; c <= 100; c++){
-                        if(c * c == A + B){
+                        if(c * c == a * a + b * b){
                             Console.WriteLine("a={0},b={1},c={2}", a, b, c);
                             counter++;
                         }
