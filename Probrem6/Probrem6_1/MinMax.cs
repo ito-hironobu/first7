@@ -19,7 +19,9 @@ namespace Probrem6_1
             }
             return max;
         }
-        public int Min(int a, int b, int c){
+
+        public int Min(int a, int b, int c)
+        {
             int min = a;
             if (b < min)
             {
