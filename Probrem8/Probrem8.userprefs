@@ -1,11 +1,14 @@
-﻿<Properties StartupConfiguration="{C48A72F3-FF0E-40E2-BA07-CFC42AA784EF}|Default">
+﻿<Properties StartupConfiguration="{8A4CC6A1-0D8C-4120-A936-6E69021A791D}|Default">
   <MonoDevelop.Ide.ItemProperties.Probrem8__1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem8_3/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Probrem8__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Probrem8__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem8_4/Program.cs">
     <Files>
       <File FileName="Probrem8_1/Program.cs" Line="17" Column="51" />
       <File FileName="Probrem8_2/Program.cs" Line="27" Column="2" />
       <File FileName="Probrem8_3/Program.cs" Line="7" Column="21" />
+      <File FileName="Probrem8_4/Program.cs" Line="29" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
