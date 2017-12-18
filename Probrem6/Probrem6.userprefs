@@ -1,11 +1,14 @@
-﻿<Properties StartupConfiguration="{63C5BB14-5E02-4579-8FEB-908B76263E35}|Default">
+﻿<Properties StartupConfiguration="{0F7CF1AD-50BD-4168-AB25-9388A8E3EFF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Probrem6__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem6__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem6_2/Calc.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem6_3/EmptyClass.cs">
     <Files>
       <File FileName="Probrem6_1/Program.cs" Line="20" Column="1" />
-      <File FileName="Probrem6_1/MinMax.cs" Line="6" Column="1" />
-      <File FileName="Probrem6_2/Program.cs" Line="1" Column="1" />
-      <File FileName="Probrem6_2/Calc.cs" Line="6" Column="1" />
+      <File FileName="Probrem6_1/MinMax.cs" Line="23" Column="9" />
+      <File FileName="Probrem6_2/Program.cs" Line="8" Column="2" />
+      <File FileName="Probrem6_2/Calc.cs" Line="19" Column="10" />
+      <File FileName="Probrem6_3/Program.cs" Line="1" Column="1" />
+      <File FileName="Probrem6_3/EmptyClass.cs" Line="6" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
