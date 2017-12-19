@@ -7,7 +7,12 @@
   <MonoDevelop.Ide.ItemProperties.Probrem8__8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__10__2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem8_11/Program.cs">
+    <Files>
+      <File FileName="Probrem8_6/Program.cs" Line="1" Column="1" />
+      <File FileName="Probrem8_11/Program.cs" Line="28" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__14__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__10 PreferredExecutionTarget="MonoDevelop.Default" />
