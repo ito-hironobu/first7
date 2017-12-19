@@ -3,9 +3,9 @@
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/bin/Debug/netcoreapp2.0/Probrem8_4.runtimeconfig.dev.json
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/bin/Debug/netcoreapp2.0/Probrem8_4.dll
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/bin/Debug/netcoreapp2.0/Probrem8_4.pdb
+/Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.csprojResolveAssemblyReference.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.csproj.CoreCompileInputs.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.AssemblyInfoInputs.cache
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.AssemblyInfo.cs
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.dll
 /Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.pdb
-/Users/ito.hironobu/Projects/training_CS/first7/Probrem8/Probrem8_4/obj/Debug/netcoreapp2.0/Probrem8_4.csprojResolveAssemblyReference.cache
