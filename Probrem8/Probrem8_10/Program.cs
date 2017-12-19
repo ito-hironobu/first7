@@ -30,6 +30,7 @@ namespace Probrem8_10
             for (int i = 2; i < fibo.Length; i++){
                 fibo[i] = fibo[i - 2] + fibo[i - 1];
             }
+
             for (int i = 0; i < fibo.Length; i++){
                 Console.Write(fibo[i] + " ");
             }
