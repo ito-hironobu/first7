@@ -8,8 +8,8 @@ namespace Probrem8_7
 {
     public class Fraction
     {
-        private int integer; // 整数部分
-        private int numerator; // 分子
+        private int integer = 0; // 整数部分
+        private int numerator = 0; // 分子
         private int denominator; // 分母
 
         public string GetFracString()
@@ -30,13 +30,9 @@ namespace Probrem8_7
             return f_str;
         }
 
-        public void AboutAndBand()
+        // 約分
+        public void About()
         {
-            integer = numerator / denominator; // 整数部分
-            numerator %= denominator; // 小数部分
-            if (numerator == 0) { return; } // fが整数になる（分子が0）ならリターン
-
-            // 約分処理
             for (int num = 2; num <= denominator; num++){
                 while (true){
                     if (numerator % num == 0 && denominator % num == 0){
@@ -47,6 +43,13 @@ namespace Probrem8_7
                     }
                 }
             }
+        }
+
+        // 帯分数化
+        public void Band()
+        {
+            integer += numerator / denominator; // 整数部分
+            numerator %= denominator; // 小数部分
         }
 
         public int I

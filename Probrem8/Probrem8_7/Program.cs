@@ -22,8 +22,12 @@ namespace Probrem8_7
             f2.N = rnd.Next(rnd_n_min, rnd_max + 1);
             f2.D = rnd.Next(rnd_d_min, rnd_max + 1);
 
+            // 約分 & 帯分数化
+            f1.Band(); f1.About();
+            f2.Band(); f2.About();
             // 2つの分数の足し算
             Fraction f = AddFraction(f1, f2);
+
             // 計算結果表示
             Console.WriteLine("{0} + {1} = {2}", f1.GetFracString(), f2.GetFracString(), f.GetFracString());
         }
@@ -31,9 +35,11 @@ namespace Probrem8_7
         static Fraction AddFraction(Fraction f1, Fraction f2)
         {
             Fraction f = new Fraction();
+            f.I = f1.I + f2.I; // 整数部分の足し算
             f.N = (f1.N * f2.D) + (f2.N * f1.D); // 通分後の分子の足し算
             f.D = f1.D * f2.D; // 通分後の分母
-            f.AboutAndBand(); // 約分と帯分数化
+            f.Band();
+            f.About();
             return f;
         }
     }
