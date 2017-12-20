@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Probrem8_6
+namespace Probrem8_7
 {
     public class Fraction
     {
@@ -15,22 +15,15 @@ namespace Probrem8_6
         public string GetFracString()
         {
             string f_str = "";
-            if (integer == 0)
-            { // 整数部分が0
-                if (numerator == 0)
-                { // 分数部分なし
+            if (integer == 0){ // 整数部分が0
+                if (numerator == 0){ // 分数部分なし
                     f_str += integer; // 0代入
-                }
-                else
-                { // 分数部分あり
+                }else{ // 分数部分あり
                     f_str += numerator + "/" + denominator; // 例）1/3代入
                 }
-            }
-            else
-            { // 整数部分あり
+            }else{ // 整数部分あり
                 f_str += integer; // 整数部分代入
-                if (numerator != 0)
-                { // 分数部分あり
+                if (numerator != 0){ // 分数部分あり
                     f_str += "(" + numerator + "/" + denominator + ")"; // 例）(1/3)追加代入
                 }
             }
@@ -44,17 +37,12 @@ namespace Probrem8_6
             if (numerator == 0) { return; } // fが整数になる（分子が0）ならリターン
 
             // 約分処理
-            for (int num = 2; num <= denominator; num++)
-            {
-                while (true)
-                {
-                    if (numerator % num == 0 && denominator % num == 0)
-                    {
+            for (int num = 2; num <= denominator; num++){
+                while (true){
+                    if (numerator % num == 0 && denominator % num == 0){
                         numerator /= num;
                         denominator /= num;
-                    }
-                    else
-                    {
+                    }else{
                         break;
                     }
                 }

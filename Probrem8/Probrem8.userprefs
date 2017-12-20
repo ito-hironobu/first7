@@ -8,10 +8,12 @@
   <MonoDevelop.Ide.ItemProperties.Probrem8__8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem8__10__2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem8_6/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem8_7/Program.cs">
     <Files>
-      <File FileName="Probrem8_6/Program.cs" Line="15" Column="30" />
-      <File FileName="Probrem8_6/Fraction.cs" Line="18" Column="33" />
+      <File FileName="Probrem8_6/Program.cs" Line="10" Column="6" />
+      <File FileName="Probrem8_6/Fraction.cs" Line="8" Column="2" />
+      <File FileName="Probrem8_7/Program.cs" Line="15" Column="30" />
+      <File FileName="Probrem8_7/Fraction.cs" Line="21" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

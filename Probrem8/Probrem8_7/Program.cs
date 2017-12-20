@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Probrem8_6
+namespace Probrem8_7
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace Probrem8_6
         {
             Random rnd = new Random();
             int rnd_n_min = 1;
-            int rnd_d_min = 2;
+            int rnd_d_min = 1;
             int rnd_max = 10;
 
             Fraction f1 = new Fraction();
